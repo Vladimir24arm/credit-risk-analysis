@@ -1,0 +1,5 @@
+"age_group","late_group","cnt","defaults","default_precent"
+"yong","has_late",2861,1259,44.01
+"old","has_late",5477,2213,40.41
+"yong","no_late",29143,2111,7.24
+"old","no_late",112519,4443,3.95
